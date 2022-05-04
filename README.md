@@ -20,8 +20,8 @@ The application constists of 4 tab bar items:
 
 
 ## What I learned:
-1. UITableView 
-2. UITableViewCell 
+1. UICollectionView 
+2. UICollectionViewCell 
 3. Fetching data from the API
 4. Implementing SDWebImage 
 5. Using CoreData for storing saved movies 
